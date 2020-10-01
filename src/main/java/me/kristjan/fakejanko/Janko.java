@@ -42,7 +42,7 @@ public class Janko {
         }
 
     }
-    
+
 
     public static Janko getJanko(){
         return janko;
